@@ -5,7 +5,7 @@
   "keywords": [],
   "author": "Manfred Steyer (http://www.softwarearchitekt.at)",
   "license": "MIT",
-  "main": "oauth.js",
+  "main": "src/oauth.js",
   "dependencies": {
     "angular-base64": "^2.0.5",
     "sha256": "^0.2.0"
